@@ -65,8 +65,8 @@ class Matrix extends Component{
     render(){
         console.log("hi");
         var matrix = this.props.matrixval;
-        var seconds = this.props.secondsval;
-        var box = this.props.boxval;
+//         var seconds = this.props.secondsval;
+//         var box = this.props.boxval;
        
         
         // pushing matrix values to array to define the return of "div" which will create our grid.
